@@ -1,4 +1,4 @@
-Ext.define('ExtJSWebSpring.view.Login', {
+Ext.define('ExtJLogin.view.Login', {
 	extend : 'Ext.window.Window',
 	alias : 'widget.login',
 	autoShow : true,

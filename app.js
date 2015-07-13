@@ -2,7 +2,7 @@ Ext.application({
 
 	
 	controllers:['LoginController'],
-	name : 'ExtJSWebSpring',
+	name : 'ExtJLogin',
 	
 
 	launch : function() {

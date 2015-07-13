@@ -1,4 +1,4 @@
-Ext.define('ExtJSWebSpring.controller.LoginController', {
+Ext.define('ExtJLogin.controller.LoginController', {
 	extend : 'Ext.app.Controller',
 
 	views : [ 'Login' ],
